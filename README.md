@@ -59,4 +59,3 @@ kubectl get service
 # Get deployment
 kubectl get deployment
 ```
-
